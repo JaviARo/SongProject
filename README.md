@@ -9,4 +9,5 @@ El frontend se compone de 4 páginas:
 - songs: Donde se encuentran las canciones. Podemos buscar las canciones y borrarlas.
 - add-song: En la que podemos añadir una canción.
 - update-song: Donde podemos modificar una canción.
+
 Para poder entrar en la página ejecutamos el comando ionic serve en la carpeta "frontend".

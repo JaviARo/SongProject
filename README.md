@@ -11,3 +11,7 @@ El frontend se compone de 4 páginas:
 - update-song: Donde podemos modificar una canción.
 
 Para poder entrar en la página ejecutamos el comando ionic serve en la carpeta "frontend".
+
+## Barra de búsqueda
+
+En la página *songs* he añadido como componente extra una barra de búsqueda la cual se encuentra en el encabezado, se implementa en el archivo *songs.page.ts* una función *searchSongs*, desencadenada por el evento ejecutado al introducir el título de una canción en la barra.
